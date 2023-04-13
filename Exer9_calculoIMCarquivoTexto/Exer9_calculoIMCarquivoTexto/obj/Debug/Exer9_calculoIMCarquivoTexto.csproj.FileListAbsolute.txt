@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\bin\Debug\Exer9_calculoIMCarquivoTexto.exe.config
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\bin\Debug\Exer9_calculoIMCarquivoTexto.exe
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\bin\Debug\Exer9_calculoIMCarquivoTexto.pdb
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\obj\Debug\Exer9_calculoIMCarquivoTexto.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\obj\Debug\Exer9_calculoIMCarquivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\obj\Debug\Exer9_calculoIMCarquivoTexto.exe
+C:\Users\CLIENTE\source\repos\Exer9_calculoIMCarquivoTexto\Exer9_calculoIMCarquivoTexto\obj\Debug\Exer9_calculoIMCarquivoTexto.pdb

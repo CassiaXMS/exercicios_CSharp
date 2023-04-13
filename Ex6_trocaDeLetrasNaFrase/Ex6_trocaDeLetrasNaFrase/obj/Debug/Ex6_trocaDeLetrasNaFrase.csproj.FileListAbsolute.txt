@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\bin\Debug\Ex6_trocaDeLetrasNaFrase.exe.config
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\bin\Debug\Ex6_trocaDeLetrasNaFrase.exe
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\bin\Debug\Ex6_trocaDeLetrasNaFrase.pdb
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\obj\Debug\Ex6_trocaDeLetrasNaFrase.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\obj\Debug\Ex6_trocaDeLetrasNaFrase.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\obj\Debug\Ex6_trocaDeLetrasNaFrase.exe
+C:\Users\CLIENTE\source\repos\Ex6_trocaDeLetrasNaFrase\Ex6_trocaDeLetrasNaFrase\obj\Debug\Ex6_trocaDeLetrasNaFrase.pdb

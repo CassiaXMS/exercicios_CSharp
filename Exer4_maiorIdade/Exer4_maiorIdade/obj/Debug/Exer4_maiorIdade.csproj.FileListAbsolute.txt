@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\obj\Debug\Exer4_maiorIdade.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\obj\Debug\Exer4_maiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\bin\Debug\Exer4_maiorIdade.exe.config
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\bin\Debug\Exer4_maiorIdade.exe
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\bin\Debug\Exer4_maiorIdade.pdb
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\obj\Debug\Exer4_maiorIdade.exe
+C:\Users\CLIENTE\source\repos\Exer4_maiorIdade\Exer4_maiorIdade\obj\Debug\Exer4_maiorIdade.pdb

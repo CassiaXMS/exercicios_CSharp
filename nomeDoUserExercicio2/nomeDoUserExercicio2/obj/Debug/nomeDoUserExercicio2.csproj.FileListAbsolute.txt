@@ -1,0 +1,9 @@
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\bin\Debug\nomeDoUserExercicio2.exe.config
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\bin\Debug\nomeDoUserExercicio2.exe
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\bin\Debug\nomeDoUserExercicio2.pdb
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.exe
+C:\Users\cassia.santos11\Desktop\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\nomeDoUserExercicio2\nomeDoUserExercicio2\obj\Debug\nomeDoUserExercicio2.pdb

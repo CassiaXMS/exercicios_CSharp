@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\bin\Debug\Ex5_nome_porParametro.exe.config
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\bin\Debug\Ex5_nome_porParametro.exe
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\bin\Debug\Ex5_nome_porParametro.pdb
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\obj\Debug\Ex5_nome_porParametro.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\obj\Debug\Ex5_nome_porParametro.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\obj\Debug\Ex5_nome_porParametro.exe
+C:\Users\CLIENTE\source\repos\Ex5_nome_porParametro\Ex5_nome_porParametro\obj\Debug\Ex5_nome_porParametro.pdb

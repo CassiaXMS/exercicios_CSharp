@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\bin\Debug\Ex8_gravarDadosDoUser.exe.config
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\bin\Debug\Ex8_gravarDadosDoUser.exe
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\bin\Debug\Ex8_gravarDadosDoUser.pdb
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\obj\Debug\Ex8_gravarDadosDoUser.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\obj\Debug\Ex8_gravarDadosDoUser.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\obj\Debug\Ex8_gravarDadosDoUser.exe
+C:\Users\CLIENTE\source\repos\Ex8_gravarDadosDoUser\Ex8_gravarDadosDoUser\obj\Debug\Ex8_gravarDadosDoUser.pdb

@@ -1,0 +1,142 @@
+
+Nome: mara
+Idade: 12
+Altura: 159
+Peso: 456
+Resultado (IMC) = /t Situação: 0,0180372611842886
+ Abaixo do peso normal.
+
+
+Nome: vitor
+Idade: 13
+Altura: 158
+Peso: 507
+Resultado (IMC) = /t Situação: 0,0203092453132511
+ Abaixo do peso normal.
+
+
+Nome: camila
+Idade: 56
+Altura: 180
+Peso: 56
+Resultado (IMC)= 0,0017283950617284 Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: cassia
+Idade: 19
+Altura: 155
+Peso: 45
+Resultado(IMC) = 0,00187304890738814
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: luiz
+Idade: 19
+Altura: 155
+Peso: 45
+Resultado(IMC) = 0
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: jorge
+Idade: 19
+Altura: 155
+Peso: 45
+Resultado(IMC) = 0
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: gabriel
+Idade: 19
+Altura: 155
+Peso: 45
+Resultado(IMC) = 0
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: lucas
+Idade: 98
+Altura: 190
+Peso: 100
+Resultado(IMC) = 0
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: karil
+Idade: 45
+Altura: 180
+Peso: 700
+Resultado(IMC) = 0,0216049382716049
+Situação: 
+ Abaixo do peso normal.
+
+ --------------
+
+
+Nome: paulo
+Idade: 56
+Altura: 1,8
+Peso: 70,6
+Resultado(IMC) = 21,7901234567901
+Situação:  Peso normal.
+
+ --------------
+
+
+Nome: cassia
+Idade: 19
+Altura: 1,55
+Peso: 45
+Resultado(IMC) = 18,7304890738814
+Situação:  Peso normal.
+
+ --------------
+
+
+Nome: MARCOS
+Idade: 19
+Altura: 1,55
+Peso: 45
+Resultado(IMC) = 19
+Situação:  Peso normal.
+
+ --------------
+
+
+Nome: FABI
+Idade: 45
+Altura: 1,8
+Peso: 145
+Resultado(IMC) = 45
+Situação:  Grau de obesidade III (mórbida)
+
+ --------------
+
+
+Nome: diego
+Idade: 22
+Altura: 1,8
+Peso: 90
+Resultado(IMC) = 28
+Situação:  Excesso de peso.
+
+ --------------
+

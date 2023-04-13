@@ -1,0 +1,7 @@
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\bin\Debug\Exer1_numeroParOuImpar.exe.config
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\bin\Debug\Exer1_numeroParOuImpar.exe
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\bin\Debug\Exer1_numeroParOuImpar.pdb
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\obj\Debug\Exer1_numeroParOuImpar.csprojAssemblyReference.cache
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\obj\Debug\Exer1_numeroParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\obj\Debug\Exer1_numeroParOuImpar.exe
+C:\Users\CLIENTE\source\repos\Exer1_numeroParOuImpar\Exer1_numeroParOuImpar\obj\Debug\Exer1_numeroParOuImpar.pdb
