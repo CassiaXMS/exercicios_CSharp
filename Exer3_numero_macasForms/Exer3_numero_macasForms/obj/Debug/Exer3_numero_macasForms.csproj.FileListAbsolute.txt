@@ -1,0 +1,10 @@
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\bin\Debug\Exer3_numero_macasForms.exe.config
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\bin\Debug\Exer3_numero_macasForms.exe
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\bin\Debug\Exer3_numero_macasForms.pdb
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.Form1.resources
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.Properties.Resources.resources
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.csproj.GenerateResource.cache
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.exe
+C:\Users\cassia.santos11\source\repos\Exer3_numero_macasForms\Exer3_numero_macasForms\obj\Debug\Exer3_numero_macasForms.pdb

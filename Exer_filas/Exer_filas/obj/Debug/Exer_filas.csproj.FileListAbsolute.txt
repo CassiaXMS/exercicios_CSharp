@@ -1,0 +1,15 @@
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.exe.config
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.exe
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.pdb
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.exe
+C:\Users\cassia.santos11\source\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.exe.config
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\bin\Debug\Exer_filas.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.csproj.SuggestedBindingRedirects.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\Exer_filas\Exer_filas\obj\Debug\Exer_filas.pdb

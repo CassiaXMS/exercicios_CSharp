@@ -1,0 +1,21 @@
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.exe.config
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.exe
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.pdb
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.Form1.resources
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.Properties.Resources.resources
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.GenerateResource.cache
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.exe
+C:\Users\cassia.santos11\source\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.exe.config
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\bin\Debug\ordenarQuinzeNumerosBubbleSort.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.Form1.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.Properties.Resources.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.GenerateResource.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\ordenarQuinzeNumerosBubbleSort\ordenarQuinzeNumerosBubbleSort\obj\Debug\ordenarQuinzeNumerosBubbleSort.pdb

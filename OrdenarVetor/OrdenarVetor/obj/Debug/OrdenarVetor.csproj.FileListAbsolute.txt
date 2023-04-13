@@ -1,0 +1,21 @@
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.exe.config
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.exe
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.pdb
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.Form1.resources
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.Properties.Resources.resources
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.GenerateResource.cache
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.exe
+C:\Users\cassia.santos11\source\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.exe.config
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\bin\Debug\OrdenarVetor.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.Form1.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.Properties.Resources.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.GenerateResource.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\OrdenarVetor\OrdenarVetor\obj\Debug\OrdenarVetor.pdb

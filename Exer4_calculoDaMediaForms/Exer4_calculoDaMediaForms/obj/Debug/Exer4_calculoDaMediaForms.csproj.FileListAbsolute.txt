@@ -1,0 +1,10 @@
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\bin\Debug\Exer4_calculoDaMediaForms.exe.config
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\bin\Debug\Exer4_calculoDaMediaForms.exe
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\bin\Debug\Exer4_calculoDaMediaForms.pdb
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.Form1.resources
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.Properties.Resources.resources
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.csproj.GenerateResource.cache
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.exe
+C:\Users\cassia.santos11\source\repos\Exer4_calculoDaMediaForms\Exer4_calculoDaMediaForms\obj\Debug\Exer4_calculoDaMediaForms.pdb

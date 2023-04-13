@@ -1,0 +1,21 @@
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.exe.config
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.exe
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.pdb
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.AssemblyReference.cache
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.Form1.resources
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.Properties.Resources.resources
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.GenerateResource.cache
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.CoreCompileInputs.cache
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.exe
+C:\Users\cassia.santos11\source\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.exe.config
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\bin\Debug\SistemaSenhaAtendimentoFila.pdb
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.SuggestedBindingRedirects.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.Form1.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.Properties.Resources.resources
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.GenerateResource.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.exe
+C:\Users\CLIENTE\OneDrive - Fatec Centro Paula Souza\repos\SistemaSenhaAtendimentoFila\SistemaSenhaAtendimentoFila\obj\Debug\SistemaSenhaAtendimentoFila.pdb
